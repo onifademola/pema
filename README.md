@@ -10,6 +10,24 @@ npm run dev
 yarn dev
 ```
 
+The feature would have both overtime and off Duty management.
+
+Overtime is calculated in hours and is for junior staffs, while Off Duty calculated in days is for senior staffs and above.
+
+Overtime users are Operators, Artisans and Process Artisans.
+
+Off-Duty users are Process Artisans and above.
+
+This would also include Free Issue management where; everyone can change their free issue; Junior staffs are 5 cases while senior are 6 cases.
+
+I also have their data attached. 
+
+Then the complaint section where people can raise a complaint, make a request or inquire about something.
+
+The last feature is the Sick leave management.
+People can send in their excuse without coming to work. Stating the details of their illness.
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
